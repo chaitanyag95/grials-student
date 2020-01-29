@@ -1,0 +1,6 @@
+#Wed, 29 Jan 2020 15:06:50 +0530
+
+info.app.version=0.1
+info.app.name=forum
+grails.env=development
+info.app.grailsVersion=3.3.11
